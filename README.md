@@ -13,24 +13,24 @@
 
 ## ❌ Without GoPluto
 
-- ❌ Answers based on months‑old docs
-- ❌ Hallucinated provider info & flows
-- ❌ Context switching between tools
+- ❌ No guarantee of finding the right expert when you actually need them
+- ❌ Made-up providers and broken flows waste time
+- ❌ Constant context-switching between people slows you down
 
 ## ✅ With GoPluto
 
 Add `use gopluto` in your prompt (or set a rule once) and the assistant fetches **live GoPluto context**:
 
-- service categories, flows, rules, examples
-- provider matching hints & filters
-- minimal payloads & code snippets
+- Fresh, verified provider knowledge pulled directly into your prompt
+- instant provider matching hints & filters
+- minimal payloads & code snippets for expert access in minutes
 
 **Examples**
 ```txt
-Draft a WhatsApp onboarding flow that asks for experts. use gopluto
+Draft a WhatsApp onboarding flow that asks for experts within minutes. use gopluto
 ```
 ```txt
-Show me the minimal payload to create a Service Request and start matching in under 60 seconds. use gopluto
+Show me the minimal payload to create a Service Request and start matching experts in under 60 seconds. use gopluto
 ```
 
 ---
