@@ -2,7 +2,7 @@
 
 # GoPluto MCP — Up‑to‑date Service Knowledge & Snippets in Any Prompt
 
-[![Website](https://img.shields.io/badge/Website-gopluto.ai-blue)](https://gopluto.ai) [![MCP](https://img.shields.io/badge/MCP-HTTP%20Remote-green)](#) [![MIT licensed](https://img.shields.io/badge/License-MIT-orange)](./LICENSE)
+[![Website](https://img.shields.io/badge/Website-gopluto.ai-blue)](https://gopluto.ai) [![MCP](https://img.shields.io/badge/MCP-HTTP%20Remote-green)](#)[![MCP Badge](https://lobehub.com/badge/mcp/gopluto-ai-gopluto-ai-mcp)](https://lobehub.com/mcp/gopluto-ai-gopluto-ai-mcp) [![MIT licensed](https://img.shields.io/badge/License-MIT-orange)](./LICENSE)
 
 [![Install in Cursor (Remote)](https://cursor.com/deeplink/mcp-install-dark.svg)](https://cursor.com/en/install-mcp?name=gopluto&config=eyJ1cmwiOiJodHRwczovL2FwaS5nb3BsdXRvLmFpL21jcCIsImhlYWRlcnMiOnsiZ29wbHV0by1hcGkta2V5IjoiWU9VUl9BUElfS0VZIn19)
 [<img alt="Install in Cursor (Local proxy)" src="https://img.shields.io/badge/Cursor-Install%20Local%20Proxy-0098FF?style=for-the-badge&logo=visualstudiocode&logoColor=white">](https://cursor.com/en/install-mcp?name=gopluto&config=eyJjb21tYW5kIjoidXYiLCJhcmdzIjpbInJ1biIsInB5dGhvbjMiLCIvQUJTT0xVVEUvUEFUSC9UTy9nb3BsdXRvLW1jcC9tYWluLnB5Il0sImVudiI6eyJHT1BMVVRPX01DUF9VUkwiOiJodHRwczovL2FwaS5nb3BsdXRvLmFpL21jcCIsIkdPUExVVE9fQVVUSF9IRUFERVIiOiJnb3BsdXRvLWFwaS1rZXkiLCJHT1BMVVRPX0FQSV9LRVkiOiJZT1VSX0FQSV9LRVkiLCJHT1BMVVRPX1RSQU5TUE9SVCI6InNzZSJ9fQ%3D%3D)
