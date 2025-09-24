@@ -1,0 +1,18 @@
+{
+  "mcpServers": {
+    "gopluto": {
+      "command": "uv",
+      "args": [
+        "run",
+        "python3",
+        "/ABSOLUTE/PATH/TO/gopluto-mcp/main.py"
+      ],
+      "env": {
+        "GOPLUTO_MCP_URL": "https://api.gopluto.ai/mcp",
+        "GOPLUTO_AUTH_HEADER": "gopluto-api-key",
+        "GOPLUTO_API_KEY": "REPLACE_WITH_YOUR_REAL_KEY",
+        "GOPLUTO_TRANSPORT": "sse"
+      }
+    }
+  }
+}
